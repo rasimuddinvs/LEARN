@@ -1,0 +1,3 @@
+ To check a function in python  
+ import inspect 
+ print inspect.getsource(os) 
