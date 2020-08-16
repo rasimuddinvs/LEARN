@@ -1,0 +1,6 @@
+alias vi=pyvim
+export EDITOR=pyvim
+echo -e "set et ts=4 sw=4 sts=4" > ~/.vimrc"
+pip3 install prompt_toolkit
+pip3 install pyvim
+pip3 install jedi
